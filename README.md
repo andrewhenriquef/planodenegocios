@@ -47,3 +47,10 @@ Criar um plano de negócios de uma empresa voltada para auxiliar a rotina diári
 - Definir um plano orçamental
 - Organizar adequadamente a plataforma necessária
 - Definir um local
+
+
+## Referências
+
+https://www.youtube.com/watch?v=h7pa-JhoCno
+
+https://m.sebrae.com.br/sites/PortalSebrae/artigos/passo-a-passo-para-elaborar-o-plano-de-negocios-de-sua-empresa,d7296a2bd9ded410VgnVCM1000003b74010aRCRD
